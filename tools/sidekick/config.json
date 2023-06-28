@@ -55,6 +55,16 @@
       "event": "preflight"
     },
     {
+      "title": "Academy",
+      "id": "academy",
+      "environments": [
+        "dev",
+        "preview",
+        "live"
+      ],
+      "event": "academy"
+    },
+    {
       "containerId": "tools",
       "id": "locales",
       "title": "Locales",
